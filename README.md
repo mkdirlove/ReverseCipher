@@ -1,3 +1,11 @@
+<h1 align="center">
+  <br>
+  <a href="https://github.com/mkdirlove/ReverseCipher"><img src="https://github.com/mkdirlove/ReverseCipher/blob/main/logo.jpg" alt="ReverseCipher"></a>
+  <br>
+  A simple tool that allows you to encrypt or decrypt text using a basic substitution cipher.
+  <br>
+</h1>
+
 ### Tool Name: Reverse Cipher
 
 Description:
