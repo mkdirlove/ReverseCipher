@@ -46,7 +46,7 @@ python3 ReverseCipher.py -e/-d -t "Text to be processed"
 ```
 To encrypt or decrypt text from a file and save the result to another file:
 ```
-python ReverseCipher.py -e/-d -f input.txt -o output.txt
+python3 ReverseCipher.py -e/-d -f input.txt -o output.txt
 
 ```
 Please note that the reverse cipher is a simple encryption method and should not be used for sensitive or critical information. It is primarily intended for educational or basic encoding purposes.
